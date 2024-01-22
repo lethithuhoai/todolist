@@ -1,0 +1,30 @@
+.inputAdd {
+  width: 550px;
+}
+.main {
+  margin: auto;
+  border: solid rgb(126, 121, 121) 1px;
+  width: 600px;
+  margin-top: 80px;
+}
+.container {
+  text-align: center;
+}
+
+.check1 {
+  margin-right: 47px;
+}
+.check2 {
+  margin-right: 72px;
+}
+.check3 {
+  margin-right: 35px;
+}
+/* .grid .item1,
+.item2,
+.item3 {
+  display: block;
+} */
+.item1 {
+  display: flex;
+}
